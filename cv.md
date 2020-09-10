@@ -3,7 +3,7 @@
 Andrei
 Minsk,Belarus
 Junior Developer
-HTML,CSS,JAVAscript,React
+HTML,CSS,JAVAscript,React,GIT
 Belarusian Politechnikal University 
 	   	 Electrical Engineer
 English (Intermidiate)
